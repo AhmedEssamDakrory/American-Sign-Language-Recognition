@@ -1,6 +1,4 @@
-# Hand-Gesture-Detection
-Sign language detection
-
+# American Sign Language Reconginition System
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -16,8 +14,7 @@ Sign language detection
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This report proposes a real-time American Sign Language (ASL) recognition system that goes through 3 phases; hand segmentation which detects skin using Log-Chromaticity Color Space (LCCS) and then removes the face from the frame, feature extraction that uses many image processing algorithms, and classification that uses these features without any type of learning or training to recognize 17 different letters/numbers.
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+This is a real-time American Sign Language (ASL) recognition system that goes through 3 phases; hand segmentation which detects skin using Log-Chromaticity Color Space (LCCS) and then removes the face from the frame, feature extraction that uses many image processing algorithms, and classification that uses these features without any type of learning or training to recognize 17 different letters/numbers.
 
 
 ### Built With
