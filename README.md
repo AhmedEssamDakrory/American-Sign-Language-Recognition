@@ -16,6 +16,8 @@
 
 This is a real-time American Sign Language (ASL) recognition system that goes through 3 phases; hand segmentation which detects skin using Log-Chromaticity Color Space (LCCS) and then removes the face from the frame, feature extraction that uses many image processing algorithms, and classification that uses these features without any type of learning or training to recognize 17 different letters/numbers.
 
+![Supported Signs](signs.jpg)
+
 
 ### Built With
 * Anaconda
