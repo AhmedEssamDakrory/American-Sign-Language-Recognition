@@ -1,5 +1,8 @@
 # American Sign Language Reconginition System
 
+###Note:
+* normal light required for a good accuracy.
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -44,7 +47,7 @@ pip install opencv-python
 ```sh
 git clone https://github.com/AhmedEssamDakrory/Hand-Gesture-Detection.git
 ```
-2. open final.ipynb with jupyter notebook and run all cells
+2. open sign language recognition.ipynb with jupyter notebook and run all cells
 
 
 ## Contributers
