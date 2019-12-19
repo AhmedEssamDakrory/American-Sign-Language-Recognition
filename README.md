@@ -1,7 +1,8 @@
 # American Sign Language Reconginition System
 
-### Note:
-* normal light required for a good accuracy.
+### Conditions required for a good accuracy:
+* Normal lightening conditions.
+* Only one hand in the image.
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
