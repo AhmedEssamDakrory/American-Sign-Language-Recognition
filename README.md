@@ -1,6 +1,6 @@
 # American Sign Language Reconginition System
 
-###Note:
+### Note:
 * normal light required for a good accuracy.
 
 <!-- TABLE OF CONTENTS -->
