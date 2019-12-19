@@ -1,5 +1,9 @@
 # American Sign Language Reconginition System
 
+### Conditions required for a good accuracy:
+* Normal lightening conditions.
+* Only one hand in the image.
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -44,7 +48,7 @@ pip install opencv-python
 ```sh
 git clone https://github.com/AhmedEssamDakrory/Hand-Gesture-Detection.git
 ```
-2. open final.ipynb with jupyter notebook and run all cells
+2. open sign language recognition.ipynb with jupyter notebook and run all cells
 
 
 ## Contributers
