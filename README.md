@@ -1,4 +1,4 @@
-# American Sign Language Reconginition System
+# American Sign Language Recongnition System
 
 ### Conditions required for a good accuracy:
 * Normal lightening conditions.
