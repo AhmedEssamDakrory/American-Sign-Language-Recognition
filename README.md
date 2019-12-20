@@ -1,4 +1,5 @@
 # American Sign Language Recongnition System
+A python program that detects and recognizes American Sign Language from real-time video and translates it into text using various image processing techniques.
 
 ### Conditions required for a good accuracy:
 * Normal lightening conditions.
