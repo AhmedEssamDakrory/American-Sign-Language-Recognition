@@ -1,14 +1,11 @@
 # American Sign Language Recongnition System
 A python program that detects and recognizes American Sign Language from real-time video and translates it into text using various image processing techniques.
 
-### Conditions required for a good accuracy:
-* Normal lightening conditions.
-* Only one hand in the image.
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
 * [About the Project](#about-the-project)
+  * [Conditions for Good Accuracy](#conditions-for-good-accuracy)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
@@ -22,6 +19,11 @@ A python program that detects and recognizes American Sign Language from real-ti
 This is a real-time American Sign Language (ASL) recognition system that goes through 3 phases; hand segmentation which detects skin using Log-Chromaticity Color Space (LCCS) and then removes the face from the frame, feature extraction that uses many image processing algorithms, and classification that uses these features without any type of learning or training to recognize 17 different letters/numbers.
 
 ![Supported Signs](signs.jpg)
+
+
+### Conditions for Good Accuracy:
+* Normal lightening conditions.
+* Only one hand in the image.
 
 
 ### Built With
