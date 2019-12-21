@@ -44,7 +44,6 @@ pip3 install jupyter
 ```
 
 * Scikit-Image
-pip install scikit-image
 ```sh
 pip3 install jupyter
 ```
