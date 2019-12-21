@@ -27,7 +27,6 @@ This is a real-time American Sign Language (ASL) recognition system that goes th
 
 
 ### Built With
-* Anaconda
 * SciKit-Image
 * OpenCV
 
@@ -37,7 +36,18 @@ This is a real-time American Sign Language (ASL) recognition system that goes th
 
 ### Prerequisites
 
-* Anaconda
+* Python 3
+
+* Jupyter Notebook
+```sh
+pip3 install jupyter
+```
+
+* Scikit-Image
+pip install scikit-image
+```sh
+pip3 install jupyter
+```
 
 * OpenCV
 ```sh
