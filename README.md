@@ -16,7 +16,7 @@ A python program that detects and recognizes American Sign Language from real-ti
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a real-time American Sign Language (ASL) recognition system that goes through 3 phases; hand segmentation which detects skin using Log-Chromaticity Color Space (LCCS) and then removes the face from the frame, feature extraction that uses many image processing algorithms, and classification that uses these features without any type of learning or training to recognize 17 different letters/numbers.
+This is a real-time American Sign Language (ASL) recognition system that goes through 3 phases; hand segmentation, which detects skin using Log-Chromaticity Color Space (LCCS) and then removes the face from the frame, feature extraction that uses many image processing algorithms, and classification that uses these features without any type of learning or training to recognize 17 different signs and translate them into letters/numbers.
 
 ![Supported Signs](signs.jpg)
 
@@ -27,7 +27,6 @@ This is a real-time American Sign Language (ASL) recognition system that goes th
 
 
 ### Built With
-* Anaconda
 * SciKit-Image
 * OpenCV
 
@@ -37,7 +36,17 @@ This is a real-time American Sign Language (ASL) recognition system that goes th
 
 ### Prerequisites
 
-* Anaconda
+* Python 3
+
+* Jupyter Notebook
+```sh
+pip3 install jupyter
+```
+
+* Scikit-Image
+```sh
+pip3 install jupyter
+```
 
 * OpenCV
 ```sh
